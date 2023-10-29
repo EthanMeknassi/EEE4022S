@@ -11,7 +11,7 @@ This repository contains a set of files and tools for processing radar data. The
 
 ### 1. `pipelineSave.py`
 - **Description:** This script runs the entire data processing pipeline and saves the resulting maps.
-- **Functionality:** It is currently configured to save maps every 50 frames, which is consistent with the structure of the HDF5 files used in this project. The HDF5 files are organized so that each file contains data for one hand gesture performed every 50 frames. For example, a 7500-frame HDF5 file would have 150 frames.
+- **Functionality:** It is currently configured to save maps every 50 frames, which is consistent with the structure of the HDF5 files used in this project. The HDF5 files are organized so that each file contains data for one hand gesture performed every 50 frames. For example, a 7500-frame HDF5 file would have 150 sample gestures.
 
 ### 2. `processData.py`
 - **Description:** This script is responsible for the core data processing tasks.
