@@ -34,4 +34,6 @@ This repository contains a set of files and tools for processing radar data. The
 ## Important Note
 Please be aware that you need to readjust the file paths in each script to make the system usable in your specific setup.
 
-Feel free to explore this repository and use the provided tools for your radar data processing needs. If you have any questions or encounter issues, please don't hesitate to contact the author, Ethan Meknassi.
+Feel free to explore this repository and use the provided tools for your radar data processing needs. If you have any questions or encounter issues, please don't hesitate to contact the author, Ethan Meknassi at:
+
+[https://www.linkedin.com/in/ethan-meknassi888/]
