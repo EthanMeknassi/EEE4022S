@@ -36,4 +36,4 @@ Please be aware that you need to readjust the file paths in each script to make 
 
 Feel free to explore this repository and use the provided tools for your radar data processing needs. If you have any questions or encounter issues, please don't hesitate to contact the author, Ethan Meknassi at:
 
-[https://www.linkedin.com/in/ethan-meknassi888/]
+https://www.linkedin.com/in/ethan-meknassi888/
