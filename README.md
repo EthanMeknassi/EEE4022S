@@ -4,7 +4,7 @@
 **Ethan Meknassi**
 
 ## Introduction
-This project was conducted as part of a thesis for the Department of Electrical Engineering at the University of Cape Town. For a detailed understanding of the project, please refer to the final thesis report entitled: "EEE4022S SP06 MKNETH002 Final Report"
+This project was conducted as part of a thesis for the Department of Electrical Engineering at the University of Cape Town. For a detailed understanding of the project, please refer to the final thesis report entitled: `EEE4022S SP06 MKNETH002 Final Report`
 
 ## Overview
 This repository contains a set of files and tools for processing radar data. The primary files and folders are as follows:
